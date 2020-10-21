@@ -1,3 +1,14 @@
+#Start Using
+
+1) Download the code 
+2) open project in code editor
+3) open and create a new project in firebase and create new app 
+4) copy code provided in firebase and paste it in fire.js or replace "XXXXXXXX" with your values
+5) now start project with npm start 
+6) try login in & register feature
+7) click logout button to close session
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
